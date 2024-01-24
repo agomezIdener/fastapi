@@ -13,4 +13,4 @@ services:
 
 networks:
   example_platform:
-    name: example_platform
+    external: true
